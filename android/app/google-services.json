@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "818410260610",
+    "firebase_url": "https://zippy-7664e-default-rtdb.firebaseio.com",
+    "project_id": "zippy-7664e",
+    "storage_bucket": "zippy-7664e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818410260610:android:b4363fa2e48c4db1d58c9b",
+        "android_client_info": {
+          "package_name": "com.zippy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818410260610-4jsjai2bf8mf7d06ni1gn4l2jno1lv1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2PXkfgRdKssFmHLu_mB8Sik9vqtOnQWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818410260610-4jsjai2bf8mf7d06ni1gn4l2jno1lv1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818410260610:android:59f06c56aca8a408d58c9b",
+        "android_client_info": {
+          "package_name": "zippy.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818410260610-4jsjai2bf8mf7d06ni1gn4l2jno1lv1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2PXkfgRdKssFmHLu_mB8Sik9vqtOnQWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818410260610-4jsjai2bf8mf7d06ni1gn4l2jno1lv1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

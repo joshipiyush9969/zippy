@@ -1,0 +1,12 @@
+{
+  "name": "zippy",
+  "displayName": "zippy",
+  "expo": {
+    "name": "zippy",
+    "slug": "zippy",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
